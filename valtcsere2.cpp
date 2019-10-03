@@ -13,4 +13,5 @@ int main()
 	a = a / b;
 
 	cout<<"a= "<< a <<"\nb= "<< b <<'\n';	
+	return 0;
 }
