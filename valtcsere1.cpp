@@ -13,4 +13,5 @@ int main()
 	a = b - a;
 
 	cout<<"a= "<< a <<"\nb= "<< b <<'\n';	
+	return 0;
 }
