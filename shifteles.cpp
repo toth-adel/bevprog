@@ -11,4 +11,5 @@ int main()
 		++db;
 	}
 	std::cout<<db<<'\n';
+	return 0;
 }
